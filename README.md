@@ -46,7 +46,7 @@
   https://your-username.github.io/crown-hotel-website/
 * Restaurant Website using Bootsrap
 
-### 🌐 Personal Portfolio Website
+###Personal Portfolio Website
 https://rukshiroshan.github.io/portfolio-/
 ### Linkedin 
 https://www.linkedin.com/feed/
