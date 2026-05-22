@@ -12,7 +12,7 @@ I am a **Full-Stack Developer** passionate about building modern, responsive, an
 ---
 
 ## 🌐 Live Portfolio
-👉 https://rukshana-engineer.github.io/developer-portfolio/
+👉 https://rukshana-roshan.github.io/developer-portfolio/
 
 ---
 
@@ -39,11 +39,11 @@ I am a **Full-Stack Developer** passionate about building modern, responsive, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rukshana-engineer&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rukshana-roshan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rukshana-engineer&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rukshana-roshan&theme=tokyonight" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ I am a **Full-Stack Developer** passionate about building modern, responsive, an
 ### 🌐 Developer Portfolio Website
 A modern responsive portfolio showcasing my work.
 
-🔗 Live: https://rukshana-engineer.github.io/developer-portfolio/
+🔗 Live: https://rukshana-roshan.github.io/developer-portfolio/
 
 ---
 
@@ -69,7 +69,7 @@ A modern responsive portfolio showcasing my work.
 
 <p align="center">
 
-<a href="https://github.com/rukshana-engineer">
+<a href="https://github.com/rukshana-roshan">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
